@@ -31,9 +31,9 @@
 </p>
 <p>
     <a href="https://github.com/Gedelachandrasekhar126396/Infinite-Stock-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EswarSai19&repo=Gearbest-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gedelachandrasekhar126396&repo=Gearbest-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
- <a href="https://github.com/EswarSai19/SUGAR-Cosmetic-Clone">
+ <a href="https://github.com/Gedelachandrasekhar126396/first-post-clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EswarSai19&repo=SUGAR-Cosmetic-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>  
 </p>
