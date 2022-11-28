@@ -30,7 +30,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedelachandrasekhar126396&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="m-sehrawat" height="139" />
 </p>
 <p>
-    <a href="https://github.com/EswarSai19/Gearbest-Clone">
+    <a href="https://github.com/Gedelachandrasekhar126396/Infinite-Stock-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EswarSai19&repo=Gearbest-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
  <a href="https://github.com/EswarSai19/SUGAR-Cosmetic-Clone">
