@@ -29,15 +29,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gedelachandrasekhar126396&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="m-sehrawat" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedelachandrasekhar126396&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="m-sehrawat" height="139" />
 </p>
-<p>
-    <a href="https://github.com/Gedelachandrasekhar126396/Infinite-Stock-Clone">
-      <h1>Infinite-Stock-Clone</h1>
-     
-    </a>
- <a href="https://github.com/Gedelachandrasekhar126396/first-post-clone">
- <h1>First-Post-Clone</h1>
-      <p>Firstpost.com will serve as a trusted guide to the crush of news and ideas around you. With thoughtful analysis and fearless views our team of editors and writers will track news in India and the world and provide a perspective that is reflective of a changing dynamic.</p>
+
   
        
-    </a>  
+   
 
