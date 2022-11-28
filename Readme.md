@@ -1,6 +1,6 @@
 <h1 align="center">Hi 
  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
- I'm Eswar Sai 
+ I'm Gedela Chandra Sekhar
  <img src='https://media.giphy.com/media/l0Iyk1HsfD3mMkiEE/giphy.gif' width="35"/>
  </h1>
 <h3 align="center">A passionate full stack web developer from India.</h3>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML,CSS, JavaScript, React**
 
-- 📫 How to reach me **eswarsai219@gmail.com**
+- 📫 How to reach me **gedelachandrasekhar@gmail.com**
 
 <h3 align="left"><i>Connect with me:</i></h3>
 <p align="left">
