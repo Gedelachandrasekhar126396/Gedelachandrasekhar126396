@@ -31,9 +31,12 @@
 </p>
 <p>
     <a href="https://github.com/Gedelachandrasekhar126396/Infinite-Stock-Clone">
+     
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gedelachandrasekhar126396&repo=Infinite-Stock-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
  <a href="https://github.com/Gedelachandrasekhar126396/first-post-clone">
+  <p>Firstpost.com will serve as a trusted guide to the crush of news and ideas around you. With thoughtful analysis and fearless views our team of editors and writers will track news in India and the world and provide a perspective that is reflective of a changing dynamic.</p>
+  <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gedelachandrasekhar126396&repo=first-post-clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>  
 </p>
