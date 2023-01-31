@@ -12,7 +12,7 @@
 - 💬 Ask me about **HTML,CSS, JavaScript, React**
 
 - 📫 How to reach me **gedelachandrasekhar@gmail.com**
-
+<p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/a86424b04fcbfff47062c137d7920903286ccd3b46d05dfabfee10de68969e87/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7072617368616e7437393730" alt="chandrasekhar" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Gedelachandrasekhar126396" style="max-width: 100%;"></a> </p>
 <h3 align="left"><i>Connect with me:</i></h3>
 <p align="left">
 <a href="https://codesandbox.io/u/Gedelachandrasekhar126396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eswarsai19" height="30" width="40" /></a>
